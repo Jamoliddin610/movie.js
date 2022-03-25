@@ -1,0 +1,165 @@
+.carousel{
+    .carousel-item{
+        height: 600px;
+        width: 100%;
+        background-image: url(../../imgs/Poster.png);
+        background-repeat: no-repeat;
+        background-size:cover;
+        position: relative;
+    }
+    .carusel-0{
+        background-image: url('https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/07/THOR-LOVE-AND-THUNDER-UPDATE.jpg');
+    }
+    .carusel-1 {
+        background-image: url('https://f.vividscreen.info/soft/d7a1c68ca222fd65841d6702a83fce16/Kung-Fu-Panda-3-1440x900.jpg');
+        .hero{
+            width: 420px;
+        }
+    }
+    .carusel-2{
+        background-image: url('http://assets1.ignimgs.com/2017/04/06/smurfslostvillage-1600-1491503212669.jpg');
+    }
+    .carusel-3{
+        background-image: url('https://play-lh.googleusercontent.com/proxy/7TZU9fm7l7EJhYdLl0TgSNX_ZkAuoFjKrTTs2Z5gn-oDKhbD5HMIC8zAmvSTnjFphB983oXpy2tnD56uW64V5hQpAA7D34umiNwP2bppHrge7s_Q8Q-SPTY=w720-h405-rw');
+    }
+}
+.hero{
+    position: absolute;
+    left: 130px;
+    bottom: 140px;
+    width: 350px;
+    color: #fff;
+    i{
+        color: #E6B91E;
+    }
+}
+.hero__title{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+}
+.hero__imdb{
+    img{
+        width: 40px;
+        height: 20px;
+        margin-right: 10px;
+    }
+    p{
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 12px;
+        margin: 0;
+        padding: 0;
+        position: relative;
+        top: 4px;
+        margin-right:  40px ;
+    }
+}
+.hero__rating{
+    margin: 0;
+    i{
+        font-size: 20px;
+        margin-right: 10px;
+    }
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 12px;
+}
+
+.hero__summary{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+    margin-bottom:20px ;
+}
+
+
+.hero__link{
+    display: inline-block;
+    background: #BE123C;
+    border-radius: 6px;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    i{
+        color: #fff;
+        font-size: 18px;
+        margin-right: 5px;
+        position: relative;
+        top: 3px;
+    }
+   
+
+}
+.hero__link:hover{
+        color: rgba(255, 255, 255, 0.692);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

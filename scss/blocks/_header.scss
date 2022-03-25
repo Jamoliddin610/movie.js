@@ -1,0 +1,54 @@
+body{
+    font-family: 'DM Sans',
+    sans-serif;
+}
+.header-box{
+    .header__img{
+        width: 115px;
+        height: 30px;
+        transform: scale(1.3);
+    }
+    .header{
+        padding: 15px 20px;
+        
+    }
+    #form-search{
+        width: 500px;
+        height: 36px;
+        border: 2px solid #D1D5DB;
+        border-radius: 6px;
+        padding: 6px 10px;
+        #search{
+            height: 100%;
+            width: 95%;
+           background-color: transparent;
+           border: none;
+           outline: none;
+           font-weight: 400;
+           font-size: 16px;
+           line-height: 24px;
+           color: #fff;
+           &::placeholder{
+               font-weight: 400;
+               font-size: 16px;
+               line-height: 24px;
+               color: #fff;
+
+           }
+        }
+        i{
+            color: #fff;
+        }
+    }
+    .heart-box{
+        width: 36px;
+        height: 36px;
+        border-radius: 50%;
+        background: #BE123C;
+        border: none;
+        i{
+            color: #fff;
+            font-size: 20px;
+        }
+    }
+}
