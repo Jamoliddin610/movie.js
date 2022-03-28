@@ -36,7 +36,8 @@ heroArr.forEach((item,index)=>{
             <input type="text" placeholder="What do you want to watch?" id="search">
             <i class="bx bx-search"></i>
           </form>
-          <button class="heart-box d-flex align-items-center justify-content-center">
+          <button class="heart-box d-flex align-items-center justify-content-center" type="button"
+              data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">
             <i class="bx bx-heart"></i>
           </button>
         </div>

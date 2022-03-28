@@ -79,14 +79,13 @@
         background: rgba(243, 244, 246, 0.5);
         backdrop-filter: blur(2px);
         transition: 0.5s all;
-        &:hover{
-            background-color:#BE123C;
-        }
         i{
-            position: relative;
-            top: 2px;
-            color:  #D1D5DB;
+                     position: relative;
+                     top: 2px;
+
+                         color: #D1D5DB;
         }
+       
     }
 
     img {
@@ -95,7 +94,11 @@
         object-fit: cover;
     }
 }
-
+.hovep{
+         background-color: #BE123C;
+     
+     
+}
 .movie__items {
     width: 250px;
     padding-bottom: 10px;
